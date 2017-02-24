@@ -1,2 +1,9 @@
 # Breakout-game
 Simple Breakout game made in Lua
+
+Commands :
+a : increase ball speed
+z : decrease ball speed
+left/rigth : move the player
+r : reset the game
+echap : quit the game
