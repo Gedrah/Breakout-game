@@ -2,6 +2,7 @@
 Simple Breakout game made in Lua
 
 Commands :
+
 a : increase ball speed,
 
 z : decrease ball speed,
